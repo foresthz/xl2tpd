@@ -2,3 +2,7 @@
 *~
 *.bak
 l2tpd
+tags
+pfc
+xl2tpd-control
+xl2tpd
